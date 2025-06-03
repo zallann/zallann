@@ -2,6 +2,23 @@
 
 ***
 
+#### My Experience 📚
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,nodejs,postgres,vscode)](https://skillicons.dev)
+
+
+<hr style="border : 0; height : 3px; ">
+
+#### Artificial Intelligence 📢
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<hr style="border : 0; height : 3px; ">
+
+#### My Github Stats 📊
+
+![zallann GitHub stats](https://github-readme-stats.vercel.app/api?username=zallann&show_icons=true&theme=tokyonight)
+
 
 <!--
 **zallann/zallann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

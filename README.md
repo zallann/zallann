@@ -4,7 +4,7 @@
 
 #### My Experience 📚
 
-![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,nodejs,postgres,vscode)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,kotlin,flutter,nodejs,postgres)
 
 
 <hr style="border : 0; height : 3px; ">
